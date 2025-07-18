@@ -1,6 +1,6 @@
 import { NextRequest, NextResponse } from "next/server";
 import { auth } from "@/lib/auth";
-import aj, { shield, detectBot, createMiddleware } from "./lib/arcjet";
+import aj, { shield, detectBot } from "./lib/arcjet";
 
 // Arcjet Rules
 const validate = aj
@@ -27,8 +27,6 @@ export async function middleware(request: NextRequest) {
 
   return NextResponse.next();
 }
-
-export default createMiddleware(validate);
 
 export const config = {
   matcher: ["/((?!api|_next/static|_next/image|favicon.ico|sign-in|assets).*)"],
