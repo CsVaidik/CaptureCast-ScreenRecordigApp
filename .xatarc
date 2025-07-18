@@ -1,0 +1,6 @@
+{
+  "databaseURL": "https://Vaidik-Vedant-s-workspace-b4ch7s.eu-central-1.xata.sh/db/vaidik_capturecast",
+  "codegen": {
+    "output": "src/xata.ts"
+  }
+}
