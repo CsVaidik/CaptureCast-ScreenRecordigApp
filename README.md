@@ -2,12 +2,35 @@
 
 CaptureCast is a full-stack screen recording and video sharing platform built with **Next.js**, **Bunny.net**, **Better Auth**, and a cutting-edge modern tech stack. It allows users to record their screens, upload videos, manage privacy settings, and share content via unique links — all with a sleek, responsive interface.
 
+---
 
 
-## Screenshots 
-- comming soon...
+## 📽️ Live Demo
 
+▶️ [Watch the Demo Video on Google Drive](https://drive.google.com/file/d/15zno0sSX6zYFgwsBV32adnMUINNCM2uS/view?usp=sharing)
 
+---
+
+## 📸 Screenshots
+
+<table>
+  <tr>
+    <td align="center"><strong>Sign In / Sign Up Page</strong></td>
+    <td align="center"><strong>Home Page</strong></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/2c5f6496-00d8-415a-b847-5b0bec41335d" alt="Sign In Screenshot" width="100%" /></td>
+    <td><img src="https://github.com/user-attachments/assets/c11782a3-b14d-4811-8c79-38bc129d1c37" alt="Home Page Screenshot" width="100%" /></td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Upload Video Section</strong></td>
+    <td align="center"><strong>AI Transcripts Display</strong></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/30a5eae0-491f-4396-ac01-cb5762476d9c" alt="Upload Video Screenshot" width="100%" /></td>
+    <td><img src="https://github.com/user-attachments/assets/cabd595a-8eae-493e-8d67-54b686701fe0" alt="AI Transcript Screenshot" width="100%" /></td>
+  </tr>
+</table>
 
 ## 🚀 Features
 
